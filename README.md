@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vahid Nejad</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">Nextjs and Nestjs Developer</h3>
 
 - 📫 How to reach me **vahid884@gmail.com**
 
